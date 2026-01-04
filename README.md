@@ -1,47 +1,54 @@
 <h1 align="center">Hi there, I'm <a href="https://github.com/Wong-JHT">Wong-JHT</a> 👋</h1>
 
 <p align="center">
-  📱 Android 開發者 | 🤖 AI 工作流探索者 | 🏗️ 架構愛好者
+  📱 Android Developer | 🤖 AI Workflow Explorer | 🏗️ Architecture Enthusiast
 </p>
 
 ---
 
 ### 🧐 About Me
 
-- 🔭 我目前專注於 **Android 架構設計** 的深度研究與實踐。
-- ⚡️ 最近正在積極探索利用 **AI Agent** 來自動化日常開發工作流。
-- 🛠️ 我的核心技能是 **Android (Kotlin)**，同時熟悉 **iOS** 開發，也能用 **Node.js** 寫服務端腳本。
-- 👯 我希望能與大家在 **移動端架構** 或 **DevOps 自動化** 領域進行交流。
-- 📫 如何聯繫我：**wangxuecheng@johnsonfitness.com**
+- 🔭 I'm currently focusing on deep research and practice in **Android Architecture Design**.
+- ⚡️ Actively exploring **AI Agents** to automate my daily development workflows.
+- 🛠️ My core stack is **Android (Kotlin)**. I also have experience with **iOS** and writing scripts using **Node.js**.
+- 👯 I'm looking to collaborate on **Mobile Architecture** or **DevOps Automation** topics.
+- 📫 How to reach me: **wangxuecheng@johnsonfitness.com**
 
 ---
 
 ### 🛠️ Tech Stack
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" />
-  <img src="https://img.shields.io/badge/iOS-000000?style=flat-square&logo=apple&logoColor=white" />
-  <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white" />
-  <br>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/AI_Workflows-FF6F00?style=flat-square&logo=openai&logoColor=white" />
-</p>
+<div align="center">
+  
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=android,kotlin,apple,swift&theme=dark" alt="Mobile Skills" />
+  </a>
+  
+  <br><br>
+  
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,js,git,idea&theme=dark" alt="Tools" />
+  </a>
+  
+  <br><br>
+  
+  <img src="https://img.shields.io/badge/Exploring-AI_Agents_%26_Workflows-FF6F00?style=for-the-badge&logo=openai&logoColor=white" height="28" />
+
+</div>
 
 ---
 
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Wong-JHT/Wong-JHT/master/profile-summary-card-output/default/0-profile-details.svg" width="400" />
-  <br>
-  <img src="https://raw.githubusercontent.com/Wong-JHT/Wong-JHT/master/profile-summary-card-output/default/2-most-commit-language.svg" width="400" />
+  <img src="https://raw.githubusercontent.com/Wong-JHT/Wong-JHT/main/profile-summary-card-output/tokyonight/0-profile-details.svg" height="180" alt="Profile Details" />
+  
+  <br><br> <img src="https://raw.githubusercontent.com/Wong-JHT/Wong-JHT/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg" height="165" alt="Top Languages" />
+  &nbsp; <img src="https://raw.githubusercontent.com/Wong-JHT/Wong-JHT/main/profile-summary-card-output/tokyonight/4-productive-time.svg" height="165" alt="Productive Time" />
 </div>
 
 <br>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Wong-JHT&label=Profile%20Views&color=3DDC84&style=flat" alt="訪問量統計" />
+  <img src="https://komarev.com/ghpvc/?username=Wong-JHT&label=Profile%20Views&color=7aa2f7&style=flat" alt="Profile Views" />
 </p>
