@@ -42,3 +42,23 @@
 ```
 
     
+
+---
+
+![](./3-stats.svg)
+
+```
+![](https://raw.githubusercontent.com/Wong-JHT/Wong-JHT/main/profile-summary-card-output/prussian/3-stats.svg)
+```
+
+    
+
+---
+
+![](./4-productive-time.svg)
+
+```
+![](https://raw.githubusercontent.com/Wong-JHT/Wong-JHT/main/profile-summary-card-output/prussian/4-productive-time.svg)
+```
+
+    
